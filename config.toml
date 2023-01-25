@@ -1,4 +1,4 @@
-baseurl = "localhost"
+baseurl = "https://katycohen.com"
 title = "Katy Cohen"
 theme = "pulp"
 canonifyurls = true
